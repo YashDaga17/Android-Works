@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_7</string>
+    <string name="dialog_message">Welcome to the world</string>
+    <string name="dialog_title">Just a message</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab_8</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
+    <string name="b3">B3</string>
+    <string name="enter_the_number">Enter the number</string>
+</resources>

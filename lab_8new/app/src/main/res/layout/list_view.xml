@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@color/purple_200"
+    >
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="106dp"
+        android:layout_height="150dp"
+        app:shapeAppearanceOverlay="@style/roundedImageViewRounded"
+        app:strokeColor="@color/black"
+        app:strokeWidth="1dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editTextTime5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:ems="10"
+            android:inputType="time"
+            android:text="@string/_10_00am"
+            android:textSize="10sp" />
+
+        <EditText
+            android:id="@+id/textView1"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:background="@null"
+            android:hint="@string/main_title"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:background="@null"
+            android:hint="@string/sub_title"
+            android:textColor="#130101"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/textView3"
+            android:layout_width="274dp"
+            android:layout_height="45dp"
+            android:layout_margin="1dp"
+            android:background="@null"
+            android:hint="@string/description"
+            android:textColor="#130101"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="320dp"
+            android:layout_height="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="2dp"
+            android:background="#000000" />
+
+
+    </TableLayout>
+
+</LinearLayout>

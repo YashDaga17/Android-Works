@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221030930596",
+    "project_id": "organ-a3317",
+    "storage_bucket": "organ-a3317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221030930596:android:7106e4eb8fabe0bb17ae31",
+        "android_client_info": {
+          "package_name": "com.example.organ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221030930596-2d77vi8amnucgtu91mjgba3om5ima2ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8f-NkEKrgtFOpu1hiiTXA7uAxZakqEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221030930596-2d77vi8amnucgtu91mjgba3om5ima2ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

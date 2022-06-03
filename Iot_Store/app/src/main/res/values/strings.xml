@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Iot_Store</string>
+    <string name="iot_store">IOT Store</string>
+    <string name="items">Items</string>
+    <string name="quantity">Quantity</string>
+    <string name="aurdino_uno">Aurdino Uno</string>
+    <string name="wifi_module">Wifi Module</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="amount_payable">Amount Payable</string>
+
+</resources>

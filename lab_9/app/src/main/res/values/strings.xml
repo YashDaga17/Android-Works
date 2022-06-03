@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab_9</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="username">Username</string>
+</resources>

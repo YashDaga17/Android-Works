@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency_Converter</string>
+    <string name="currency_convertor">Currency Convertor</string>
+    <string name="convert">Convert</string>
+    <string name="rs">Rs</string>
+    <string name="euro">EURO</string>
+    <string name="yen">YEN</string>
+    <string name="usd">USD</string>
+</resources>

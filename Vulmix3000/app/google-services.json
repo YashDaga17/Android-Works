@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181764458895",
+    "project_id": "vulmix-3000",
+    "storage_bucket": "vulmix-3000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181764458895:android:1496e9c3807038c7ed23fa",
+        "android_client_info": {
+          "package_name": "com.example.vulmix3000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181764458895-na68324kgpud47te03sn5ohppk6lfimj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-z6qThU5iscbNDIV8CXGi3Q3GsDFae0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181764458895-na68324kgpud47te03sn5ohppk6lfimj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
